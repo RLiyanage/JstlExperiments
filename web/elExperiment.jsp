@@ -19,7 +19,7 @@
         
         <table border ="1">
     <tr>
-        <td>Student Name</>
+        <td>Student Name</td>
         <td> Student Marks</td>
         <td>Average</td>
     </tr>
